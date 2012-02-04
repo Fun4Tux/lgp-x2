@@ -1,0 +1,86 @@
+==Preview==
+<p>Take up the role of Julian Gardna, convicted of the theft of a transport ship, and given a second chance. From this point on, the choices are all yours.&nbsp;<br />Return to a life of piracy and crime, build your own trading empire, join the ranks of mercenaries, or become an ace combat pilot, commanding a fleet of starships from the bridge of your carrier.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>X&sup2;: The Threat is of a new generation of space simulator games, you play the role of Julian Gardna who continues the story set by X: Beyond The Frontier. The updated graphics engine gives the universe a fresher feel with newly designed ships and stations adding to the complexity of the universe.</p>
+<p><br /><strong>Explore</strong><br />You can explore over 130 beautifully designed sectors occupied by nebulas that affect your ships and stations, asteroids you can mine for materials you can later sell on for profit.<br /><br /><strong>New Ships</strong><br />Explore in over 60 ships of varying sizes from scout class ships to the much larger carrier class battleships.<br /><br /><strong>New Upgrades</strong><br />Upgrade your ships systems with many more upgrades, and download new upgrades that make use of the new scripting engine designed specially for X&sup2;.<br /><br /><strong>New Weapons</strong><br />Add new weapons to your ship including the Ion Disruptor and Mass Driver, but also build factories that will develop these weapons and sell them to make a profit, expanding your own empire among the universe.<br /><br /><strong>New Missions</strong><br />Take part in missions offered to you on each stations bulletin board, make money by defending convoys and destroy incoming Xenon fleets intent on destroying everything in their path.<br />But above all else, help to defend the universe from the Khaak, before they kill everyone and everything they come across.</p>
+<p></p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/x2-trailer-en.ogg"></source> Your browser does not support the video tag! Go and get a <a href="http://www.mozilla-europe.org/de/firefox/">good one</a>!</video></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>12+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English, German, French (only texts), Italian (only texts)<br /></td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/x2/">Demo for X2: The Threat</a>, <a href="http://updates.fun4tux.ch/x2-demo/">Updates for the Demo</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/x2/">Updates for X2: The Threat</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>DVD-Rom and manual in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>1.2 GHz x86 Processor</td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Hardware Accelerated 3D Graphics card with 64 MB video memory<br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>256 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>1.4 GB<br /></td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>ALSA or OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>DVD-Rom</td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>

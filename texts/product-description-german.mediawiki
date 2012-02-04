@@ -1,0 +1,92 @@
+==Preview==
+<p>X2: Die Bedrohung verw&ouml;hnt Fans anspruchsvoller Weltraum-Action mit fantastischen Grafiken, einer bombastischen Sound-Soundkulisse und einer fast un&uuml;berschaubaren Vielzahl Handlungsm&ouml;glichkeiten in einem v&ouml;llig freien Universum.</p>
+
+==Text==
+<p><strong>Das Spiel</strong></p>
+<p>X2: Die Bedrohung verw&ouml;hnt Fans anspruchsvoller Weltraum-Action mit fantastischen Grafiken, einer bombastischen Sound-Soundkulisse und einer fast un&uuml;berschaubaren Vielzahl Handlungsm&ouml;glichkeiten in einem v&ouml;llig freien Universum. X2: Die Bedrohung setzt auf starke Charaktere und eine spannende Storyline, welche auch Neulingen einen idealen Einstieg ins X-Universum bietet. Handel, Bau, Kampf und Strategie: Das Universum reagiert individuell auf Ihre Aktionen.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Errichten Sie ein eigenes Imperium und werden Sie H&auml;ndler, Kopfgeldj&auml;ger, Pirat, Bergbaumagnat oder eine gewagte Mischung aus allem.</li>
+<li>Erforschen Sie das Universum mit mehr als 60 Schiffen unterschiedlichster Gr&ouml;&szlig;e, vom kleinen Scout bis zu riesigen Schlacht- und Tr&auml;gerschiffen. R&uuml;sten Sie die Schiffe mit neuen Waffen aus, darunter den Ionendisruptor und die Projektilkanone. &Uuml;bernehmen Sie Auftr&auml;ge, die in jeder Station am Schwarzen Brett angeboten werden. Verdienen Sie Geld als Geleitschutz von Konvois oder im Kampf gegen die einfallende Xenonflotte. Und helfen Sie dabei, das Universum gegen die Khaak zu verteidigen, bevor diese alles und jeden zerst&ouml;ren k&ouml;nnen, dem sie begegnen.</li>
+<li>Schneller Spieleinstieg durch einen abgestuften Schwierigkeitsgrad w&auml;hrend der Entwicklung des Spielverlaufes.</li>
+<li>Ein riesiges dynamischen Universum mit Tausenden von Objekten, wie Stationen und Schiffen, einer Unzahl von Waffen, G&uuml;tern f&uuml;r den Handel und verschiedenen Rassen, jede mit eigener Entwicklung, Regeln und Technologie.</li>
+</ul>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/x2-trailer-en.ogg"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<hr />
+<p><strong>Allgemeine Informationen zum Spiel</strong><br /></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>12+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch, Deutsch, Franz&ouml;sisch (nur Texte), Italienisch (nur Texte)<br /></td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/x2/">Demo f&uuml;r X2: The Threat</a>, <a href="http://updates.fun4tux.ch/x2-demo/">Updates f&uuml;r die Demo</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/x2/">Updates f&uuml;r X2: The Threat</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu<br /></td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>DVD-Rom&nbsp;und Anleitung in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr />
+<p><strong>Minimale Systemanforderungen<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>1.2 GHz x86 Prozessor</td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>3D-Grafikkarte mit 64MB Ram und korrekt installierten, funktionsf&auml;higen Treibern<br /></td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>256 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>1.4 GB<br /></td>
+</tr>
+<tr>
+<td>Soundkarte<br /></td>
+<td>ALSA oder OSS kompatibel<br /></td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>DVD-Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>
