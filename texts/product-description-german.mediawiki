@@ -37,11 +37,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/x2/">Demo f&uuml;r X2: The Threat</a>, <a href="http://updates.fun4tux.ch/x2-demo/">Updates f&uuml;r die Demo</a></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/x2/">Demo f&uuml;r X2: The Threat</a>, <a href="http://updatefiles.linuxgamepublishing.com/x2-demo/">Updates f&uuml;r die Demo</a></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/x2/">Updates f&uuml;r X2: The Threat</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/x2/">Updates f&uuml;r X2: The Threat</a></td>
 </tr>
 <tr>
 <td>Zustand<br /></td>
